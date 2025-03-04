@@ -14,5 +14,10 @@ A simple movie listing project ,a rating,review and recommendation system which 
 - JavaScript
 - React
 - Node.js
+
+##for clone-
+git clone https://github.com/DronaKhadka2057/MyMovieList.git
+
+  
   
 
