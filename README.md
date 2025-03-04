@@ -1,22 +1,27 @@
-# MyMovieList 🎬
+# MyMovieList🎬
 
-A simple movie listing project ,a rating,review and recommendation system which is similar to Imdb but mainly focuses on local and Nepali contents.
+MyMovieList is a web application that allows users to search for movies and view detailed information about them. The application features a responsive user interface that works seamlessly across various devices.
 
 ## Features
-✅ Search for movies  
-✅ View movie details  
-✅ Responsive UI  
+
+- Search for movies
+- View detailed movie information
+- Responsive design for various devices
 
 ## Technologies Used
--Figma
-- HTML  
-- CSS  
-- JavaScript
-- React
-- Node.js
 
-##for clone-
-git clone https://github.com/DronaKhadka2057/MyMovieList.git
+- **Design**: Figma
+- **Frontend**: HTML, CSS, JavaScript, React
+- **Backend**: Node.js
+
+## Installation
+
+ Follow these steps:
+git clone https://github.com/DronaKhasha2057/MyMovieList.git
+cd MyMovieList
+npm install
+npm start
+
 
   
   
